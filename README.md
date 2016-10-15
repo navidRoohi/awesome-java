@@ -412,8 +412,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) - Supports a lot of JVM languages and provides good options for Android development. The commercial edition targets the enterprise sector.
 * [NetBeans](https://netbeans.org/) - Provides integration for several Java SE and EE features from database access to HTML5.
 * [Android Studio](https://developer.android.com/studio/index.html) - Android Studio provides the fastest tools for building apps on every type of Android device.
-* [jGRASP](http://www.jgrasp.org/) - Android Studio provides the fastest tools for building apps on every type of Android device.
-
+* [jGRASP](http://www.jgrasp.org/) - jGRASP is a lightweight development environment, created specifically to provide automatic generation of software visualizations.
 
 ## Imagery
 
